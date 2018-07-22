@@ -91,7 +91,7 @@ class Example extends Component {
 ## MaterialIndicator properties
 
  name            | description               | type   | default
-:---------------:|:-------------------------:|:------:|:------------
+:--------------- |:------------------------- | ------:|:------------
  color           | Component color           | String | rgb(0, 0, 0)
  size            | Base component size       | Number | 40
  lineBorderWidth | borderWidth of the circle | Number | 4
